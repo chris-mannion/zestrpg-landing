@@ -1,6 +1,6 @@
 # ZestRPG - Coming Soon!
 
-![ZestRPG Logo](zestRPG-logo.png)
+![ZestRPG Logo](logo.png)
 
 Welcome to the official landing page for **ZestRPG** - the retro-inspired fitness app that turns your workouts into a nostalgic RPG adventure! We’re excited to bring you a unique fitness journey where leveling up your strength, stamina, and endurance feels just like playing your favorite 90s video games.
 
