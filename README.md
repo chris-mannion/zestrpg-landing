@@ -28,7 +28,7 @@ This landing page is hosted on GitHub Pages and serves as the official "Coming S
 
 Want to be the first to know when ZestRPG is live? Sign up on our landing page to receive updates and notifications:
 
-[ZestRPG Landing Page](https://your-username.github.io/zestRPG-landing-page/)
+[ZestRPG Landing Page](https://chris-mannion.github.io/zestrpg-landing/)
 
 ## 📈 Project Roadmap
 
@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤝 Contact
 
-Have questions or want to collaborate? Reach out to us on the [ZestRPG Landing Page.](https://your-username.github.io/zestRPG-landing-page/)
+Have questions or want to collaborate? Reach out to us on the [ZestRPG Landing Page.](https://chris-mannion.github.io/zestrpg-landing/)
